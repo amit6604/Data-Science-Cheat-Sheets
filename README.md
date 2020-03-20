@@ -1,2 +1,2 @@
 # Data-Science-Cheat-Sheets
-This repositiry contains all python cheat sheets.
+This datascience reference cheat sheets.
